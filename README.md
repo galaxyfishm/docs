@@ -1,2 +1,1 @@
-# docs
-This is my blog 
+# Hello VuePress!
